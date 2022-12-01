@@ -1,0 +1,66 @@
+.contato-main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+form {
+  width: auto;
+  margin: 40px 0;
+}
+
+form label,
+form legend {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+.input-padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 15px;
+  width: 50%;
+  font-size: 17px;
+}
+
+.checkbox {
+  margin: 20px 0;
+}
+
+.btn {
+  width: 40%;
+  background: orange;
+  color: white;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  transition: 0.5s all;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: darkorange;
+  transform: scale(1.1);
+}
+
+table {
+  margin: 20px 0 40px;
+}
+
+thead {
+  background: #555555;
+  color: white;
+  font-weight: bold;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 8px 15px;
+}
+
+fieldset {
+  border: none;
+}

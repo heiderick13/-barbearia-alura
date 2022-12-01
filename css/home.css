@@ -1,0 +1,81 @@
+.foto1 {
+  width: 100%;
+}
+
+.titulos {
+  text-align: center;
+  font-size: 2em;
+  margin: 0 0 1em;
+  clear: left;
+}
+
+.princiapl {
+  padding: 3em 0;
+  background: #fefefe;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.princiapl p {
+  margin: 0 0 1em;
+}
+
+.princiapl em {
+  font-style: italic;
+}
+
+.utensilios {
+  width: 130px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.mapa {
+  padding: 3em 0;
+  background: linear-gradient(#fefefe, #888888);
+}
+
+.conteudo-mapa {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.beneficios {
+  padding: 3em 0;
+  background: #888888;
+}
+
+.conteudo-beneficios {
+  width: 640px;
+  margin: 0 auto;
+}
+
+.lista-beneficios {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  list-style: none;
+}
+
+.itens {
+  line-height: 1.5;
+}
+
+.itens:first-child {
+  font-weight: bold;
+}
+
+.itens:before {
+  content: "★";
+}
+
+.imagem-beneficios {
+  float: right;
+  width: 50%;
+  padding-bottom: 3em;
+}
+
+.video {
+  width: 560px;
+  margin: 2em auto;
+}

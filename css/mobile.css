@@ -1,0 +1,50 @@
+@media screen and (max-width: 480px) {
+  .top,
+  .princiapl,
+  .conteudo-mapa,
+  .conteudo-beneficios,
+  .video {
+    width: auto;
+    padding: 1em;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  nav {
+    position: static;
+    align-items: center;
+  }
+
+  nav a {
+    font-size: 1.2em;
+  }
+
+  .lista-beneficios,
+  .imagem-beneficios {
+    width: 100%;
+  }
+
+  .produtos li {
+    display: block;
+    width: auto;
+    margin: 15px 0;
+  }
+
+  .produtos li img {
+    width: 100%;
+  }
+
+  .produtos li:hover {
+    transform: none;
+  }
+
+  form {
+    margin: 60px 0;
+  }
+
+  .btn {
+    width: 60%;
+  }
+}
